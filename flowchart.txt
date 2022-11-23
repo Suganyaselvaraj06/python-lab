@@ -1,0 +1,29 @@
+Draw a flowchart for cooking maggi
+
+Draw a flowchart for adding 2 nos
+
+Draw a flowchart for dividing 2 nos
+
+Draw a flowchart to calculate the area of circle
+
+Draw a flowchart to calculate the perimeter of rectangle
+
+Draw a flowchart to calculate the average of three nos
+
+Draw a flowchart to calculate the simple interest for given amount,years and rate of interest.
+
+Draw a flowchart to convert the temperature from fahrenheit to celsius.
+
+Draw a flowchart for finding the biggest of 2 nos
+
+Draw a flowchart for determining the person is elgible for voting
+
+Draw a flowchart for checking whether the given no is odd or even
+
+Draw a flowchart for finding the largest of 3 nos
+
+Draw a flowchart for checking  whether the given year is a leap year or not.
+
+Draw a flowchart to print the grade of a student by accepting three subject marks.
+
+Draw a flowchart to find the sum of the first 'n' natural numbers.
