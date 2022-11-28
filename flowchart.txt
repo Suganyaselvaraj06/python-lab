@@ -27,3 +27,11 @@ Draw a flowchart for checking  whether the given year is a leap year or not.
 Draw a flowchart to print the grade of a student by accepting three subject marks.
 
 Draw a flowchart to find the sum of the first 'n' natural numbers.
+
+Draw a flowchart to find the gcd between two nos.
+
+Draw a flowchart to find the factorial of a number
+
+Draw a flowchart to find the factorial of a number using recursion function
+
+Draw a flowchart to find the gcd of a number using recursion function
