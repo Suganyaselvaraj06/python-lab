@@ -1,5 +1,3 @@
-
-
 Draw a flowchart for adding 2 nos
 
 Draw a flowchart for dividing 2 nos
@@ -41,3 +39,44 @@ Draw a flowchart to find the factorial of a number
 Draw a flowchart to find the factorial of a number using recursion function
 
 Draw a flowchart to find the gcd of a number using recursion function
+
+Draw a flowchart to calculate the electricity bill 
+Hint:
+Get the number of units, U as input.
+            i)For first 100 units , there is no bill. 
+            ii)For  units between 101 to 200, assign Rs 2 for an unit.
+            iii)for units greater than 200, calculate the bills by assigning Rs. 3 for each unit. 
+            
+Draw a flowchart to retail shopping
+Hint
+Enter option(i) as integer value
+If option(i) is not 0,
+    i)Get the item name(it),quantity(q) and its price(p) as input. 
+		ii)Calculate the bill by it*q*p. 
+If the option(i) is equal to 0,exit
+
+Draw a flowchart to display the weight of a motorbike
+Hint:
+Get the types of motorcycle M
+Step 4: Based on the type M, choose the weight as
+	If M=chopper, W= 315 kg
+	If M=Cruiser, W=250 kg
+	If M=Scooter, W=115 kg
+	If M=Mopped, W=80 kg
+ 		Else print as cannot find the weight
+Step 5: Print the weight
+
+
+Draw a flowchart to calculate the weight of steel bar
+Hint:
+Get the diameter d of a steel bar.
+  If d>= 8 mm and <= 20 mm then
+	   	Calculate the W as (d*d)/162
+		Print W
+	Else  
+		Print as not available
+    
+Draw a flowchart to Compute Electrical Current in Three Phase AC Circuit
+Hint:
+Get the power factor Pf, Power P and Voltage V.
+Step 3: Calculate the current I as P/√3*V*Pf
